@@ -1,0 +1,7 @@
+﻿  Lippman 9.4.cpp
+C:\Users\Kon4ka\source\repos\Lippman 9.4\Funk.h(169,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kon4ka\source\repos\Lippman 9.4\Funk.h(183,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kon4ka\source\repos\Lippman 9.4\Funk.h(292,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kon4ka\source\repos\Lippman 9.4\Funk.h(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kon4ka\source\repos\Lippman 9.4\Lippman 9.4.cpp(37): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print_vec<std::string>(std::vector<std::string,std::allocator<std::string>>)"
+  Lippman 9.4.vcxproj -> C:\Users\Kon4ka\source\repos\Lippman 9.4\Debug\Lippman 9.4.exe

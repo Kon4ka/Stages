@@ -1,0 +1,2 @@
+C:\Users\Kon4ka\source\repos\Lippman 9.4\Debug\Lippman 9.4.exe
+C:\Users\Kon4ka\source\repos\Lippman 9.4\Debug\Lippman 9.4.pdb

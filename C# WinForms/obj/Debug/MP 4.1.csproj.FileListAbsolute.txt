@@ -1,0 +1,12 @@
+C:\Users\Kon4ka\source\repos\MP 4.1\bin\Debug\MP 4.1.exe.config
+C:\Users\Kon4ka\source\repos\MP 4.1\bin\Debug\MP 4.1.exe
+C:\Users\Kon4ka\source\repos\MP 4.1\bin\Debug\MP 4.1.pdb
+C:\Users\Kon4ka\source\repos\MP 4.1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP 4.1.csprojAssemblyReference.cache
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP_4._1.Form1.resources
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP_4._1.Properties.Resources.resources
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP 4.1.csproj.GenerateResource.cache
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP 4.1.csproj.CoreCompileInputs.cache
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP 4.1.csproj.CopyComplete
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP 4.1.exe
+C:\Users\Kon4ka\source\repos\MP 4.1\obj\Debug\MP 4.1.pdb

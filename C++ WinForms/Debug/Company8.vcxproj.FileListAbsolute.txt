@@ -1,0 +1,5 @@
+C:\Users\Kon4ka\source\repos\Company8\Debug\Company8.vcxprojAssemblyReference.cache
+C:\Users\Kon4ka\source\repos\Company8\Debug\Company8.exe
+C:\Users\Kon4ka\source\repos\Company8\Debug\Company8.pdb
+C:\Users\Kon4ka\source\repos\Company8\Debug\Company8.MyForm.resources
+C:\Users\Kon4ka\source\repos\Company8\Debug\Company8.vcxproj.GenerateResource.cache
